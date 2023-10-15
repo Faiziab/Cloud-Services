@@ -114,3 +114,9 @@ article {
   align-items: center;
 }
 
+#GROUND{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
