@@ -92,3 +92,25 @@ article {
 #footer p {
   margin: 0; /* Remove any default margin on the paragraph */
 }
+
+#GCPAI {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#AmazonAI {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#AzureMachineLearning {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
